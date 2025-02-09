@@ -46,9 +46,5 @@ pip install pandas matplotlib seaborn
 ## Example Output
 The script will display statistical summaries of the dataset and generate a plot showing sodium content across different food categories.
 
-## Improvements & Future Enhancements
-- Add error handling for missing files or incorrect data.
-- Optimize SQL queries for better performance.
-- Expand visualization to include other nutritional factors.
 
 
